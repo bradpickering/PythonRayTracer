@@ -34,5 +34,7 @@ AMBIENT <Ir> <Ig> <Ib>
 OUTPUT <name>
   
 ## How to run
-````python3 RayTracer.py <testfile.txt>````
+````
+python3 RayTracer.py <testfile.txt>
+````
  
