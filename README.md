@@ -7,31 +7,31 @@
 ## Input file format
 ### example given in [exampleTest.txt](https://github.com/bradpickering/PythonRayTracer/blob/main/exampleTest.txt)
 
-NEAR <n>
+NEAR \<n>
 
-LEFT <l>
+LEFT \<l>
 
-RIGHT <r>
+RIGHT \<r>
 
-BOTTOM <b>
+BOTTOM \<b>
 
-TOP <t>
+TOP \<t>
 
-RES <x> <y>
+RES \<x> \<y>
 
-SPHERE <name> <pos x> <pos y> <pos z> <scl x> <scl y> <scl z> <r> <g> <b> <Ka> <Kd> <Ks> <Kr> <n>
+SPHERE \<name> \<pos x> \<pos y> \<pos z> \<scl x> \<scl y> \<scl z> \<r> \<g> \<b> \<Ka> \<Kd> \<Ks> \<Kr> \<n>
 
-… // up to 14 additional sphere specifications
+… // additional sphere specifications
 
-LIGHT <name> <pos x> <pos y> <pos z> <Ir> <Ig> <Ib>
+LIGHT <name> \<pos x> \<pos y> \<pos z> \<Ir> \<Ig> \<Ib>
 
-… // up to 9 additional light specifications
+… // additional light specifications
 
-BACK <r> <g > <b>
+BACK \<r> \<g > \<b>
 
-AMBIENT <Ir> <Ig> <Ib>
+AMBIENT \<Ir> \<Ig> \<Ib>
 
-OUTPUT <name>
+OUTPUT \<name>
   
 ## How to run
 ````
