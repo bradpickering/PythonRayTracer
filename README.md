@@ -5,6 +5,7 @@
 ![exampleTest](https://user-images.githubusercontent.com/64803010/212615328-7ec9e4d8-e798-4093-a8f2-6202fe69c55f.png)
 
 ## Input file format
+
 NEAR <n>
 
 LEFT <l>
