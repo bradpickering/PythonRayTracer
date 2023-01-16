@@ -23,7 +23,7 @@ SPHERE \<name> \<pos x> \<pos y> \<pos z> \<scl x> \<scl y> \<scl z> \<r> \<g> \
 
 … // additional sphere specifications
 
-LIGHT <name> \<pos x> \<pos y> \<pos z> \<Ir> \<Ig> \<Ib>
+LIGHT \<name> \<pos x> \<pos y> \<pos z> \<Ir> \<Ig> \<Ib>
 
 … // additional light specifications
 
